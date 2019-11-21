@@ -6,8 +6,8 @@ __bold_bold__bold_bold__
 
 ___bold_italic__bold_italic___
 
-*italic*normal*italic*
+*Italic*Normal*Italic*
 
-**bold*italic*bold**normal**bold*italic*bold**
+**Bold*Italic*Bold**Normal**Bold*Italic*Bold**
 
-***bold italic*upright**normal**upright*bold italic***
+***BoldItalic*Upright**Normal**Upright*BoldItalic***

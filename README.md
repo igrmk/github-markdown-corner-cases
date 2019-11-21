@@ -1,13 +1,13 @@
 # Just some markdown corner cases
 
-_italic_italic_
+_italic_italic_italic_
 
 __bold_bold__bold_bold__
 
 ___bold_italic__bold_italic___
 
-*italic_italic*
+*italic*normal*italic*
 
-**bold*bold**bold*bold**
+**bold*italic*bold**normal**bold*italic*bold**
 
-***bold*italic**bold*italic***
+***bold italic*upright**normal**upright*bold italic***
